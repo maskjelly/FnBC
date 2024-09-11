@@ -10791,7 +10791,7 @@ html[data-theme="dark"] .c-content .c-accordion_projects.is-active:before {
 }
 .c-hero.-home {
   position: relative;
-  background-color: #de5849;
+  background-color: #d41b1b;
   z-index: 1;
 }
 .c-hero.-home .c-hero_content {
@@ -10800,6 +10800,7 @@ html[data-theme="dark"] .c-content .c-accordion_projects.is-active:before {
   position: relative;
   display: flex;
   flex-direction: column;
+  background-color : white
   justify-content: space-between;
   width: 100%;
 }
